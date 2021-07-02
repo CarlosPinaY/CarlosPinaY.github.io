@@ -1,0 +1,31 @@
+p{
+  color: #ff0066;
+background-color: #ffcc00;
+position: absolute;
+left: 45%;
+top: 0%;
+font-family: 'Cousine', monospace;
+font-size: 28px
+}
+a{
+  font-family: 'Mate', serif;
+  font-size: 14px
+}
+body{
+  font-family: 'Cousine', monospace;
+  font-size: 16px
+}
+
+.morado{
+  text-transform: uppercase;
+  position: absolute;
+  left: 42.5%;
+  top: 30%;
+  font-family: 'Mate', serif;
+color:#99003d
+
+}
+q{
+  font-family: 'Mate', serif;
+  font-size: 16px
+}
